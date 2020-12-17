@@ -75,3 +75,5 @@ for (r in rss_urls){
   sheet_append(sheet_url, df_alerts, sheet = "Alerts")
   sheet_append(sheet_url, df_ids, sheet = "IDs")
 }
+  
+quit()
