@@ -4,4 +4,4 @@ This repository contains two versions of a simple Google Alert RSS feed scraper 
 
 There are two versions: ```scrape_local.R``` and ```scrape_cloud.R```. The latter is intended to be run on a cloud machine (I use Heroku). If you are planning to set this up on Heroku or another cloud-based platform, you can deploy it as a container using the compatible Docker repo I created [here](https://github.com/alexlusco/docker-r-scrape-tools).
 
-![](results_image.jpg)
+![](https://github.com/alexlusco/rss-feed-scraper/blob/main/results_image.png)
